@@ -46,7 +46,7 @@ function calculateResults(){
   }
 }
 
-// Show Error
+// Show error
 function showError(error){
   // Hide results
   document.getElementById('results').style.display = 'none';
